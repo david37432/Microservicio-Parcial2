@@ -1,0 +1,5 @@
+com\example\userservice\UserRepository.class
+com\example\userservice\UserserviceApplication.class
+com\example\userservice\AppUser.class
+com\example\userservice\UserController.class
+com\example\userservice\HomeController.class
